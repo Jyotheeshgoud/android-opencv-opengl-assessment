@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edge Detector</string>
+    <string name="camera_permission_denied">Camera permission is required for this app</string>
+    <string name="camera_error">Camera initialization error</string>
+    <string name="processing_raw">Raw Feed</string>
+    <string name="processing_edge">Edge Detection</string>
+    <string name="status_initializing">Initializing camera...</string>
+    <string name="status_ready">Camera ready</string>
+    <string name="status_processing">Processing frames</string>
+</resources>
