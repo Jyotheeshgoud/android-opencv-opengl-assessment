@@ -20,14 +20,11 @@ Real-time edge detection system with Android Camera2 API, OpenCV C++ processing,
 ## 📷 Output
 
 ### Web Viewer Demo
-![Web Interface](screenshots/web/web-interface-full.png)
+![Web Interface](screenshots/web/Screenshot%202025-10-08%20000223.png)
 *Complete web interface with edge detection simulation and statistics dashboard*
 
-![Load Sample Frame](screenshots/web/load-sample-result.png) 
+![Load Sample Frame](screenshots/web/Screenshot%202025-10-08%20000249.png) 
 *Sample frame processing with real-time edge detection*
-
-![Generate Test Pattern](screenshots/web/test-pattern-result.png)
-*Test pattern generation demonstrating processing pipeline*
 
 ### Android App
 *Screenshots will be added after device testing*
