@@ -1,0 +1,39 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizard.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# NDK
+obj/
+.externalNativeBuild/
+.cxx/
+
+# OpenCV
+opencv/
+
+# Web/TypeScript
+node_modules/
+*.js.map
+dist/
+.tsbuildinfo
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
